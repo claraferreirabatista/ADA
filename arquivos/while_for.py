@@ -44,6 +44,10 @@ while contador < 5:
 # Lista de listas
 alunos = [["João", 15], ["Maria", 16], ["Carlos", 14], ["Ana", 17]]
 
+for _ in [16]:
+
+  print("Python é demais!")
+
 # Loop for para percorrer a lista de listas
 for aluno in alunos:
     nome = aluno[0]

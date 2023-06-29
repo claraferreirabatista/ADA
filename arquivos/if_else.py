@@ -78,3 +78,4 @@ else:
 
 # Resultado: "É necessário levar um guarda-chuva."
 
+
