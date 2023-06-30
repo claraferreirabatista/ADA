@@ -2,7 +2,7 @@
 
 i = 1
 
-while i <= 10:
+while i < 10:
     resultado = i
     print(resultado)
     i += 1

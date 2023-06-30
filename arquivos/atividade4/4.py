@@ -9,15 +9,6 @@ for i in list_number:
 
 print("O total de números pares na lista é:", count)
 
-"""num = int(input('Digite um número: '))
-
-
-i = 0
-lista = []
-for i in range(num):
-    lista.append(i)
-    i += 1
-print(lista)"""
 
 
 

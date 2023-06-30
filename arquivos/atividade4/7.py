@@ -6,7 +6,7 @@ list2 = [6, 7, 8, 9, 10]
 new_list = []
 
 for i in range(len(list1)):
-    sum_elements = list1[i] + list2[i]
-    new_list.append(sum_elements)
+    sum = list1[i] + list2[i]
+    new_list.append(sum)
 
 print(" Nova lista:", new_list)
