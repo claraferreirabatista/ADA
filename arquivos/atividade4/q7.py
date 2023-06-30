@@ -8,5 +8,5 @@ for number in number_list:
     if number > largest_number:
         largest_number = number
 
-print("The largest number in the list is:", largest_number)
+print("O maior número é: ", largest_number)
 

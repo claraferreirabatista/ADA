@@ -4,14 +4,14 @@ número digitado: 5
 resultado esperado: 1 2 3 4 5
 """
 
-numero = int(input("Digite um número inteiro: "))
+"""numero = int(input("Digite um número inteiro: "))
 
 i = 1
 while i <= numero:
     print(i, end=" ")
     i += 1
 
-print()
+print()"""
 
 
 numero = int(input("Digite um número inteiro: "))
@@ -20,3 +20,4 @@ for i in range(1, numero + 1):
     print(i, end=" ")
 
 print()
+

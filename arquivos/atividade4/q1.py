@@ -3,7 +3,7 @@ Exemplo
 número digitado: 5
 resultado esperado: 120
 """
-
+"""
 numero = int(input("Digite um número: "))
 resultado = 1
 i = 1
@@ -13,7 +13,7 @@ while i <= numero:
     i += 1
 
 print("O fatorial de", numero, "é:", resultado)
-
+"""
 
 
 numero = int(input("Digite um número: "))
